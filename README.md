@@ -1,6 +1,11 @@
 <h4 align="center">
   Nubank Clone App with React Native.
 </h4>
+  
+  <p align="center">
+  <img alt="gif" src="http://g.recordit.co/FYG97OK4bw.gif">
+</p>
+
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
